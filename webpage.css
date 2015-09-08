@@ -62,3 +62,68 @@ a:hover{
     margin-left:20px;
     width: 200px;
 }
+
+/*////////////////////////submit.css/////////////////////////////// */
+.sub{
+        font-family: "Lucida Console";
+}
+#sub2{
+	float: center;
+	font-family: "Lucida Console";
+	width:100px;
+	margin-top: -80px;
+	margin-left: 700px;
+	color: #CDCDCE;
+}
+#intro{
+        width: 700px;
+        margin-left: 255px;
+        margin-top: 15px;
+        font-family: "Lucida Console";
+        font-size: 12px;
+        color: #CDCDCE;
+}
+#info{
+        float: left;
+        margin-left: 175px;
+        font-size: 12px;
+        color: #708694;
+        width: 100px;
+        padding:0px;
+}
+#pix{
+	font-size: 12px;
+	float: center;
+	margin-left: 370px;
+	width: 200px;
+	color: #708694;
+}
+#notes{
+	font-family: "Lucida Console";
+	font-size: 12px;
+	color: #708694;
+	width: 450px;
+	height: 300px;
+	margin-top: -170px;
+	margin-left: 600px;
+	float: right;
+}
+
+/* ////////////////////////complete.css/////////////////////////////// */
+#success{
+	margin-top: 5%;
+	margin-left: 40%;
+	float: center;
+	font-family: "Lucida Console";
+	font-size: 18px;
+	color: #CDCDCE;
+}
+/* ////////////////////////contact.css/////////////////////////////// */
+#ct{
+	font-family: "Lucida Console";
+	color: #708694;
+	width: 50%;
+	margin-left: 25%;
+	text-align: right;
+	margin-top: 11%;
+}
