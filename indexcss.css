@@ -7,7 +7,10 @@ div.title{
 	border-width: 5px;
 	border-color: #CDCDCE;
 	max-width: 600px;
-	max-height: 270px;
+	max-height: 200px;
+}
+.title img{
+	max-width: 600px;
 }
 div.desc{
 	font-size: 12px;

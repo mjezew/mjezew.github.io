@@ -5,9 +5,12 @@
 	max-width: 250px;
 	height: 80px;
 	border-color: #CDCDCE;
-	border-width: 1px;
 	padding:0px;
 	margin-top: 30px;
+}
+#folio img{
+	padding: 0px;
+
 }
 input[type="submit"]{
 	font-family: "Lucida Console";
@@ -47,13 +50,14 @@ form{
 a:link{
 	color: #CDCDCE;
 }
+
 a:visited{
 	color: #CDCDCE;
 }
-a:hover{
-	color: #708694;{
-}
 
+a:hover{
+	color: #708694;
+}
 /* ////////////////////////body/////////////////////////////// */
 
 #p1{
