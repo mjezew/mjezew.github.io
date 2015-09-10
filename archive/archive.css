@@ -1,15 +1,13 @@
-#pdfs{
-	margin-top: 500px;
-	float: center;
-}
 .issuuembed{
 	margin-top: 50px;
 }
 #column1{
 	margin-left: 250px;
 	margin-bottom: 40px;
+	float: left;
 }
 #column2{
+	float: right;
 	margin-left: 30px;
 	margin-bottom: 40px;
 }
