@@ -10,7 +10,7 @@
 }
 #folio img{
 	padding: 0px;
-
+	max-width: 250px;
 }
 input[type="submit"]{
 	font-family: "Lucida Console";
