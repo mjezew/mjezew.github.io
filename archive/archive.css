@@ -3,6 +3,11 @@
 	float: center;
 }
 .issuuembed{
+	margin-top: 50px;
+}
+#column1{
 	margin-left: 250px;
-	margin-top: 300px;
+}
+#column2{
+	margin-left: 550px;
 }
