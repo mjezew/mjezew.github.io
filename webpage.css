@@ -2,8 +2,8 @@
     	font-size: 115px;
     	margin-left: 3%;
 	color: #CDCDCE;
-	width: 5%;
-	height: 3%;
+	max-width: 250px;
+	height: 80px;
 	border-color: #CDCDCE;
 	border-width: 1px;
 	padding:0px;
