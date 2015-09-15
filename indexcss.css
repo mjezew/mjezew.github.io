@@ -27,6 +27,6 @@ form{
 	float:center;
 }
 body{
-	background: no-repeat center center cover;
-	background-size: 100%;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
 }
