@@ -32,7 +32,7 @@ form{
     margin-left:100px;
 }
 #text{
-	margin-top: 40px;
+	margin-top: 8%;
 	margin-left: 25%;
 	width: 50%;
 	padding: 10px;
@@ -42,7 +42,7 @@ form{
 #text p{
 	color: #708694;
 	margin:auto;
-	margin-top: 40px;
+	margin-top: 8%;
 	font-family: "Lucida Console";
 	font-size: 16px;
 }
