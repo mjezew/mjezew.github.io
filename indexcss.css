@@ -29,4 +29,5 @@ form{
 body{
         background-attachment: fixed;
         background-repeat: no-repeat;
+	background-position: center;
 }
