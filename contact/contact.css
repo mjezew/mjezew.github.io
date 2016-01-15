@@ -8,8 +8,8 @@
 }
 #contactcredit{
 	font-family: "Lucida Console";
-        color: #708694;
-        width: 10%;
-        text-align: right;
-        margin-top: 94%;
+        font-size: 11px;
+        color: #CDCDCE;
+        margin-top: 55%;
+        float: center;
 }
