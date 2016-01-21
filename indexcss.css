@@ -17,11 +17,10 @@ div.desc{
 	font-family: 'Courier New';
 	color: #CDCDCE;
 }
-.button{
+input[type=submit]{
 	width:50px;
 	border:0px;
 	color: #CDCDCE;
-	background-color: transparent !important;
 	background: transparent !important;
 }
 form{
