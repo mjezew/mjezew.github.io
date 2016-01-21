@@ -1,5 +1,5 @@
 .issuuembed{
-        margin-top: 75px;
+        margin-top: 10%;
         font-color: #CDCDCE !important;
 }
 .issuuembed.issuu-isrendered {
@@ -9,7 +9,7 @@
 #column1{
         margin-bottom: 40px;
         float: center;
-	margin-left: 20%;
+	margin-left: 40%;
 }
 #column2{
         float: center;
