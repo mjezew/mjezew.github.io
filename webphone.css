@@ -1,0 +1,59 @@
+#folio{
+        font-size: 15px;
+        float: center
+	color: #CDCDCE;
+        margin-top: 10px;
+}
+#folio img{
+        padding: 0px;
+        max-width: 250px;
+}
+input[type="submit"]{
+        font-family: "Lucida Console";
+        width:7px;
+        border: none;
+        background-color: transparent;
+        color: #708694;
+	padding:0px;
+        height: 10px;
+}
+#hr1{
+        margin-top: 20px;
+}
+#hr2{
+        margin-top: 10px;
+}
+form{
+    float:left;
+    margin-left:25px;
+}
+#text{
+        margin-top: 3%;
+        margin-left: 5%;
+        width: 80%;
+        padding: 7px;
+        float: center;
+        color: #708694;
+}
+#text p{
+        color: #708694;
+        margin:auto;
+        margin-top: 3%;
+        font-family: "Lucida Console";
+        font-size: 8px;
+}
+/* ////////////////////////body/////////////////////////////// */
+
+body{
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-position: center;
+}
+
+#p1{
+    display: block;
+    margin-top:20px;
+    margin-left:8px;
+    width: 75%;
+}
+
