@@ -19,11 +19,9 @@ input[type="submit"]{
 }
 #hr1{
         margin-top: 40px;
-	width: 40px;
 }
 #hr2{
         margin-top: 10px;
-	width: 40px;
 }
 form{
     float:left;
@@ -40,10 +38,10 @@ form{
 }
 #text p{
         color: #708694;
-        margin:auto;
-        margin-top: 3%;
         font-family: "Lucida Console";
-        font-size: 13px;
+}
+#sub1{
+	float: center;
 }
 .main{
 	float:center;
