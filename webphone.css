@@ -19,7 +19,7 @@ input[type="submit"]{
 	width: 40%;
 	float: center;
 	margin-left: 30%;
-	font-size: 18px;
+	font-size: 12px;
 	height: 20px;
 }
 #hr1{
@@ -36,7 +36,7 @@ input[type="submit"]{
         margin-top: 3%;
         margin-left: 5%;
         width: 80%;
-	font-family: "Lucida Console" !important;
+	font-family: "Menlo-Regular" !important;
 	font-size: 13px;
         padding: 7px;
         float: center;
@@ -46,7 +46,7 @@ input[type="submit"]{
         color: #708694;
         margin:auto;
         margin-top: 3%;
-        font-family: "Lucida Console" !important;
+        font-family: "Menlo-Regular" !important;
         font-size: 16px;
 }
 #sub1{
