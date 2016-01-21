@@ -6,8 +6,8 @@ div.title{
         border-style: solid;
         border-width: 5px;
         border-color: #CDCDCE;
-        max-width: 5px;
-        max-height: 20px;
+        max-width: 0px;
+        max-height: 0px;
 }
 .title img{
         max-width: 0px;
@@ -18,7 +18,7 @@ div.desc{
         color: #CDCDCE;
 }
 input[type=submit]{
-        width:7%;
+        width:6%;
         border:0px;
 :x
         color: #CDCDCE;
