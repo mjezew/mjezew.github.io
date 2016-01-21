@@ -6,7 +6,7 @@
         text-align: right;
         margin-top: 8%;
 }
-.mobileonly{
+#mobileonly{
 	font-family: "Lucida Console";
         font-size: 11px;
 	color: #708694;
