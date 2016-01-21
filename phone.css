@@ -10,7 +10,7 @@ div.title{
         max-height: 20px;
 }
 .title img{
-        max-width: 10px;
+        max-width: 0px;
 }
 div.desc{
         font-size: 12px;
