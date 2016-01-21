@@ -9,10 +9,11 @@
 #mobileonly{
 	font-family: "Menlo-Regular";
 	color: #708694;
-        width: 50%;
+	font-size: 11px;
+        width: 75%;
         text-align: right;
         margin-top: 15%;
-	float: center;
+	margin-left:8%; 
 }
 a{
         color: #CDCDCE;
