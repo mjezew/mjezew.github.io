@@ -19,9 +19,11 @@ input[type="submit"]{
 }
 #hr1{
         margin-top: 40px;
+	width: 40px;
 }
 #hr2{
         margin-top: 10px;
+	width: 40px;
 }
 form{
     float:left;
