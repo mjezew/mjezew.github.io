@@ -1,14 +1,15 @@
 .issuuembed{
 	margin-top: 75px;
+	font-color: #000 !important;
 }
 #column1{
-	margin-left: 18%;
+	margin-left: 15%;
 	margin-bottom: 40px;
 	float: left;
 }
 #column2{
 	float: left;
-	margin-left: 15%;
+	margin-left: 13%;
 	margin-bottom: 40px;
 }
 #archivecredit{
