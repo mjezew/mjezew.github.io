@@ -2,6 +2,10 @@
         margin-top: 75px;
         font-color: #CDCDCE;
 }
+.issuuembed.issuu-isrendered {
+ 	width: 100%!important;
+	height: 100% !important;
+}
 #column1{
         margin-bottom: 40px;
         float: center;
