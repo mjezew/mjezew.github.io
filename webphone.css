@@ -10,12 +10,10 @@
 }
 input[type="submit"]{
         font-family: "Lucida Console";
-        width:7px;
         border: none;
         background-color: transparent;
         color: #708694;
 	padding:0px;
-        height: 10px;
 }
 #hr1{
         margin-top: 40px;
@@ -62,9 +60,7 @@ float:center;
 /* ////////////////////////body/////////////////////////////// */
 
 body{
-        background-attachment: fixed;
-        background-repeat: no-repeat;
-        background-position: center;
+	background-color: #fff !important;
 }
 
 #p1{
