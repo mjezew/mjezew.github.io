@@ -39,7 +39,10 @@ form{
 }
 #text p{
         color: #708694;
+        margin:auto;
+        margin-top: 3%;
         font-family: "Lucida Console";
+        font-size: 16px;
 }
 #sub1{
 	width: 100%;
