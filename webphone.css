@@ -8,6 +8,7 @@
         padding: 0px;
         max-width: 250px;
 }
+@media screen and (max-width: 640px){
 input[type="submit"]{
         font-family: "Lucida Console";
         border: none;
@@ -64,7 +65,7 @@ form{
 body{
 	background-color: #fff !important;
 }
-
+}
 #p1{
     display: block;
     margin-top:20px;
