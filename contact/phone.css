@@ -1,10 +1,10 @@
 #ct{
-        font-family: "Lucida Console";
+        font-family: "Menlo-Regular";
         color: #708694;
-        width: 50%;
+        width: 74%;
         margin-left: 25%;
         text-align: right;
-        margin-top: 8%;
+        margin-top: 20px;
 }
 #mobileonly{
 	font-family: "Lucida Console";
