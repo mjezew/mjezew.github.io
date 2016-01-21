@@ -14,6 +14,8 @@ input[type="submit"]{
         background-color: transparent;
         color: #708694;
 	padding:0px;
+	width: 50% !important;
+	float: center;
 }
 #hr1{
         margin-top: 40px;
@@ -39,7 +41,7 @@ form{
         font-family: "Lucida Console";
 }
 #sub1{
-	float: center;
+	width: 100%;
 }
 .main{
 	float:center;
@@ -50,7 +52,7 @@ form{
         width: 100%
 }
 .archive{
-float:center;
+        float:center;
         width: 100%
 }
 .submissions{
