@@ -14,6 +14,6 @@
         float: center;
 }
 .mobileonly{
-	font-color: #fff;
-	color: #fff;
+	font-color: transparent;
+	color: transparent;
 }
