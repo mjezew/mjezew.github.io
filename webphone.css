@@ -11,7 +11,7 @@
 	margin-left: 7%;
 }
 input[type="submit"]{
-        font-family: "Lucida Console" !important;
+        font-family: "Menlo-Regular" !important;
         border: none;
         background-color: transparent;
         color: #708694;
@@ -19,7 +19,6 @@ input[type="submit"]{
 	width: 40%;
 	float: center;
 	margin-left: 30%;
-	margin-bottom: 15px;
 	font-size: 18px;
 	height: 20px;
 }
@@ -27,7 +26,7 @@ input[type="submit"]{
         margin-top: 40px;
 }
 #hr2{
-        margin-top: 14px;
+        margin-top: 8px;
 }
 /*form{
     float:left;
