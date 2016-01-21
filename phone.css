@@ -1,7 +1,7 @@
 div.title{
         font-size: 7px;
         color: #CDCDCE;
-        margin-top: 23px;
+        margin-top: 20%;
         padding:2px;
         border-style: solid;
         border-width: 5px;
@@ -19,6 +19,7 @@ input[type=submit]{
         width:6%;
         border:0px;
         color: #708694 !important;
+	font-family: "Menlo-Regular";
 }
 form{
         float:center;

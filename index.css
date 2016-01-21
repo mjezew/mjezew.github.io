@@ -22,7 +22,7 @@ input[type=submit]{
         border:0px;
         color: #CDCDCE;
         background: transparent !important;
-	font-family: "Menlo-Regular";
+	font-family: "Lucida Console";
 }
 form{
         float:center;
