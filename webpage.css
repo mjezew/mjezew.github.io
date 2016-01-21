@@ -14,7 +14,7 @@
 }
 input[type="submit"]{
 	font-family: "Lucida Console";
-        width: 75px;
+        width: 75px !important;
 	border: none;
 	background-color: transparent;
 	color: #708694;
