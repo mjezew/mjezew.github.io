@@ -1,6 +1,7 @@
 .issuuembed{
         margin-top: 10%;
         font-color: #CDCDCE !important;
+	margin: 0 auto;
 }
 .issuuembed.issuu-isrendered {
  	width: 50% !important;
