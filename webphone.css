@@ -18,7 +18,7 @@ input[type="submit"]{
         height: 10px;
 }
 #hr1{
-        margin-top: 20px;
+        margin-top: 40px;
 }
 #hr2{
         margin-top: 10px;
@@ -31,6 +31,7 @@ form{
         margin-top: 3%;
         margin-left: 5%;
         width: 80%;
+	font-size: 13px;
         padding: 7px;
         float: center;
         color: #708694;
@@ -40,7 +41,23 @@ form{
         margin:auto;
         margin-top: 3%;
         font-family: "Lucida Console";
-        font-size: 8px;
+        font-size: 13px;
+}
+.main{
+	float:center;
+	width: 100%
+}
+.contact{
+	float:center;
+        width: 100%
+}
+.archive{
+float:center;
+        width: 100%
+}
+.submissions{
+	float:center;
+        width: 100%
 }
 /* ////////////////////////body/////////////////////////////// */
 
