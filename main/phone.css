@@ -1,7 +1,7 @@
 #credit{
         font-family: "Lucida Console";
         font-size: 0px;
-        color: transparent;
+        color: transparent !important;
         margin-top: 15%;
         float: center;
 }
