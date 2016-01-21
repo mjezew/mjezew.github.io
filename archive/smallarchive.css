@@ -1,0 +1,22 @@
+.issuuembed{
+        margin-top: 75px;
+	font-color: #CDCDCE;
+}
+#column1{
+        margin-left: 18%;
+        margin-bottom: 40px;
+        float: center;
+}
+#column2{
+        float: center;
+        margin-left: 18%;
+        margin-bottom: 40px;
+}
+#archivecredit{
+        font-family: "Lucida Console";
+        font-size: 9px;
+        float: center;
+        color: #CDCDCE;
+        margin-top: 94%;
+}
+~  
