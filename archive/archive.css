@@ -1,7 +1,5 @@
 .issuuembed{
 	margin-top: 75px;
-	font-color: #000 !important;
-	margin: 0 auto;
 }
 #column1{
 	margin-left: 15%;
@@ -19,4 +17,7 @@
 	float: center;
         color: #CDCDCE;
         margin-top: 94%;
+}
+a{
+        color: #CDCDCE;
 }
