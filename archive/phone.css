@@ -3,18 +3,18 @@
         font-color: #CDCDCE !important;
 }
 .issuuembed.issuu-isrendered {
- 	width: 25% !important;
-	height: 25% !important;
+ 	width: 50% !important;
+	height: 50% !important;
 }
 #column1{
         margin-bottom: 40px;
         float: center;
-	margin-left: 10%;
+	margin-left: 20%;
 }
 #column2{
         float: center;
         margin-bottom: 40px;
-	margin-left: 5%;
+	margin-left: 20%;
 }
 #archivecredit{
         font-family: "Lucida Console";
