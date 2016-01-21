@@ -8,9 +8,10 @@
         padding: 0px;
         max-width: 250px;
 	margin-bottom: 10px;
+	margin-left: 7%;
 }
 input[type="submit"]{
-        font-family: "Lucida Console";
+        font-family: "Lucida Console" !important;
         border: none;
         background-color: transparent;
         color: #708694;
@@ -35,6 +36,7 @@ input[type="submit"]{
         margin-top: 3%;
         margin-left: 5%;
         width: 80%;
+	font-family: "Lucida Console" !important;
 	font-size: 13px;
         padding: 7px;
         float: center;
@@ -44,7 +46,7 @@ input[type="submit"]{
         color: #708694;
         margin:auto;
         margin-top: 3%;
-        font-family: "Lucida Console";
+        font-family: "Lucida Console" !important;
         font-size: 16px;
 }
 #sub1{
