@@ -27,7 +27,13 @@ input[type="submit"]{
 	margin-bottom: 4%;
 }
 #hr2{
-        margin-top: 15%;
+        margin-top: 8%;
+}
+#sub1{
+	margin-bottom: 6%;
+}
+.sub1{
+	margin-bottom: 6%;
 }
 /*form{
     float:left;
