@@ -23,10 +23,11 @@ input[type="submit"]{
 	height: 20px;
 }
 #hr1{
-        margin-top: 40px;
+        margin-top: 4%;
+	margin-bottom: 4%;
 }
 #hr2{
-        margin-top: 4%;
+        margin-top: 8%;
 }
 /*form{
     float:left;
