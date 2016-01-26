@@ -19,17 +19,17 @@ input[type="submit"]{
 	width: 40%;
 	float: center;
 	margin-left: 30%;
-	font-size: 16px;
+	font-size: 18px;
 	height: 18px;
 	clear: left;
 	clear: right;
 }
 #hr1{
         margin-top: 20%;
-	margin-bottom: 15% !important;
+	margin-bottom: 10% !important;
 }
 #hr2{
-        margin-top: 15%;
+        margin-top: 10%;
 }
 /*form{
     float:left;
