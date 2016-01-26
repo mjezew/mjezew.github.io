@@ -21,6 +21,8 @@ input[type="submit"]{
 	margin-left: 30%;
 	font-size: 20px;
 	height: 22px;
+	clear: left;
+	clear: right;
 }
 #hr1{
         margin-top: 20%;
