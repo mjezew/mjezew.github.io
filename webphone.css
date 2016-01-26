@@ -11,7 +11,7 @@
 	margin-left: 7%;
 }
 input[type="submit"]{
-        font-family: "Menlo-Regular" !important;
+        font-family: "Courier New";
         border: none;
         background-color: transparent;
         color: #708694;
@@ -37,7 +37,7 @@ input[type="submit"]{
         margin-top: 3%;
         margin-left: 5%;
         width: 80%;
-	font-family: "Menlo-Regular" !important;
+	font-family: "Courier New" !important;
 	font-size: 13px;
         padding: 7px;
         float: center;
@@ -47,7 +47,7 @@ input[type="submit"]{
         color: #708694;
         margin:auto;
         margin-top: 3%;
-        font-family: "Menlo-Regular" !important;
+        font-family: "Courier New";
         font-size: 16px;
 }
 #sub1{
