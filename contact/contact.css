@@ -13,9 +13,10 @@
         margin-top: 55%;
         float: center;
 }
-#mobileonly{
-	font-color: transparent;
-	color: transparent;
+#cred{
+	font-color: "Lucida Console";
+	color: #CDCDCD;
+	font-size: 11px;
 }
 a{
 	color: #CDCDCE;
