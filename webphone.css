@@ -24,7 +24,7 @@ input[type="submit"]{
 }
 #hr1{
         margin-top: 20%;
-	margin-bottom: 10%;
+	margin-bottom: 10% !important;
 }
 #hr2{
         margin-top: 15%;
