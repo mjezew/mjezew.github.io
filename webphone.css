@@ -27,14 +27,14 @@ input[type="submit"]{
 #hr1{
         margin-top: 20%;
 	margin-bottom: 10% !important;
+	clear: left;
+	clear: right;
 }
 #hr2{
         margin-top: 10%;
+	clear: left;
+	clear: right;
 }
-/*form{
-    float:left;
-    margin-left:25px;
-}*/
 #text{
         margin-top: 3%;
         margin-left: 5%;
