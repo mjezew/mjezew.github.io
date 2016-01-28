@@ -29,7 +29,7 @@ input[type="submit"]{
 	clear: both !important;
 }
 #hr2{
-        margin-top: 10%;
+        margin-top: 18% !important;
 	clear: both !important;
 }
 #text{
@@ -51,8 +51,8 @@ input[type="submit"]{
 }
 #sub1{
 	width: 100%;
-	margin-top:5%;
-	margin-bottom: 10% !important;
+	margin-top: 10% !important;
+	margin-bottom: 18% !important;
 	clear: left !important;
 	clear: right !important;
 }
