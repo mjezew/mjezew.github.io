@@ -27,16 +27,10 @@ input[type="submit"]{
 }
 #hr1{
 	clear: both;
-	color: transparent !important;
-	width: 0px;
-	height: 0px;
 }
 #hr2{
-	color: transparent !important;
 	clear: both;
 	margin-top: 30px !important;
-	width: 0px;
-	height: 0px;
 }
 #text{
         margin-top: 3%;
@@ -58,9 +52,6 @@ input[type="submit"]{
 #sub1{
 	width: 100%;
 	clear: both !important;
-	border-size: 3px;
-	border-style: solid;
-	border-color: #CDCDCE;
 }
 .main{
 	float:center;
