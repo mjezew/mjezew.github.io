@@ -21,8 +21,8 @@ input[type="submit"]{
 	width: 40%;
 	float: center;
 	margin-left: 30%;
-	font-size: 18px;
-	height: 7%;
+	font-size: 5.5%;
+	height: 6%;
 	clear: both !important;
 }
 #hr1{
@@ -30,6 +30,7 @@ input[type="submit"]{
 }
 #hr2{
 	clear: both;
+	margin-top: 5px;
 }
 #text{
         margin-top: 3%;
