@@ -1,5 +1,7 @@
 .issuuembed{
         margin-top: 10%;
+	height: 60% !important;
+	width: 75% !important;
 }
 .issuuembed.issuu-isrendered {
  	width: 50% !important;

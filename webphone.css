@@ -27,8 +27,10 @@ input[type="submit"]{
 }
 #hr1{
 	clear: both;
+	color: transparent !important;
 }
 #hr2{
+	color: transparent !important;
 	clear: both;
 	margin-top: 30px !important;
 }
