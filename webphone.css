@@ -52,8 +52,7 @@ input[type="submit"]{
 }
 #sub1{
 	width: 100%;
-	clear: left !important;
-	clear: right !important;
+	clear: both !important;
 }
 .main{
 	float:center;
