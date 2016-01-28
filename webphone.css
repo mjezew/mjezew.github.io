@@ -28,11 +28,9 @@ input[type="submit"]{
 #hr1{
         margin-top: 20%;
 	clear: both !important;
-	position: relative;
 }
 #hr2{
 	clear: both !important;
-	position: relative
 }
 #text{
         margin-top: 3%;
@@ -54,7 +52,6 @@ input[type="submit"]{
 #sub1{
 	width: 100%;
 	clear: both !important;
-	position: absolute;
 }
 .main{
 	float:center;
