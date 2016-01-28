@@ -1,0 +1,30 @@
+.issuuembed{
+        margin-top: 10%;
+}
+.issuuembed.issuu-isrendered {
+ 	width: 50% !important;
+	height: 50% !important;
+}
+#column1{
+        margin-bottom: 40px;
+        float: center;
+	margin-left: 10%;
+}
+#column2{
+        float: center;
+        margin-bottom: 40px;
+	margin-left: 10%;
+}
+#archivecredit{
+        font-family: "Courier New";
+        font-size: 9px;
+        float: center;
+        color: #CDCDCE;
+        margin-top: 94%;
+}
+a{
+	color: transparent;
+}
+body{
+	color: transparent;
+}
