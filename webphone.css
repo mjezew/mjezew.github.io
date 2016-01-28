@@ -28,9 +28,11 @@ input[type="submit"]{
 #hr1{
         margin-top: 20%;
 	clear: both !important;
+	margin-bottom: 0%;
 }
 #hr2{
 	clear: both !important;
+	margin-top: 0%;
 }
 #text{
         margin-top: 3%;
