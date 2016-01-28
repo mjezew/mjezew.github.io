@@ -58,7 +58,8 @@ input[type="submit"]{
 #sub1{
 	width: 100%;
 	clear: both !important;
-	border: 3px;
+	border-size: 3px;
+	border-style: solid;
 	border-color: #708694;
 }
 .main{
