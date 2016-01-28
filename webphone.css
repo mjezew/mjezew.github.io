@@ -27,10 +27,12 @@ input[type="submit"]{
 }
 #hr1{
 	clear: both;
+	display: block;
 }
 #hr2{
 	clear: both;
 	margin-top: 10% !important;
+	display: block;
 }
 #text{
         margin-top: 3%;
