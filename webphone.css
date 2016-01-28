@@ -60,23 +60,23 @@ input[type="submit"]{
 	clear: both !important;
 	border-size: 3px;
 	border-style: solid;
-	border-color: #708694;
+	border-color: #CDCDCE;
 }
 .main{
 	float:center;
-	width: 100%
+	width: 100%;
 }
 .contact{
 	float:center;
-        width: 100%
+        width: 100%;
 }
 .archive{
         float:center;
-        width: 100%
+        width: 100%;
 }
 .submissions{
 	float:center;
-        width: 100%
+        width: 100%;
 }
 /* ////////////////////////body/////////////////////////////// */
 
