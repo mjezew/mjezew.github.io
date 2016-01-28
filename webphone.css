@@ -21,7 +21,7 @@ input[type="submit"]{
 	width: 40%;
 	float: center;
 	margin-left: 30%;
-	font-size: 5.5%;
+	font-size: 15px;
 	height: 6%;
 	clear: both !important;
 }
