@@ -32,7 +32,7 @@ input[type="submit"]{
 }
 #hr2{
 	clear: both !important;
-	margin-top: 0% !important;
+	margin-top: 14% !important;
 }
 #text{
         margin-top: 3%;
@@ -54,7 +54,6 @@ input[type="submit"]{
 #sub1{
 	width: 100%;
 	clear: both !important;
-	margin-bottom: 20px !important;
 }
 .main{
 	float:center;
