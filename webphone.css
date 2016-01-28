@@ -22,14 +22,14 @@ input[type="submit"]{
 	float: center;
 	margin-left: 30%;
 	font-size: 18px;
-	height: 18px;
+	height: 12%;
 	clear: both !important;
 }
 #hr1{
-	color: transparent !important;
+	clear: both;
 }
 #hr2{
-	color: transparent !important;
+	clear: both;
 }
 #text{
         margin-top: 3%;
