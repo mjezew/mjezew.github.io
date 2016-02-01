@@ -4,14 +4,12 @@
 #column1{
         margin-bottom: 40px;
         float: center;
-	margin-left: auto;
-	margin-right: auto;
+	margin-left: 30%;
 }
 #column2{
         float: center;
         margin-bottom: 40px;
-	margin-left: auto;
-	margin-right: auto;
+	margin-left: 30%;
 }
 #archivecredit{
         font-family: "Lucida Console";
