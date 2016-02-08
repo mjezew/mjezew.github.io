@@ -6,7 +6,7 @@
         float: center;
 }
 .p1{
-	margin-bottom: 15%;
+	margin-bottom: 15% !important;
 }
 a{
 	color: transparent !important;
