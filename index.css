@@ -12,17 +12,20 @@ div.title{
 .title img{
         max-width: 475px;
 }
-div.desc{
-        font-size: 12px;
-        font-family: 'Courier New';
-        color: #CDCDCE;
-}
 input[type=submit]{
         width:65px;
         border:0px;
         color: #CDCDCE;
         background: transparent !important;
 	font-family: "Lucida Console";
+}
+a{
+	width:65px;
+        border:0px;
+        color: #CDCDCE;
+        background: transparent !important;
+        font-family: "Lucida Console";
+	font-size: 11px; 
 }
 form{
         float:center;
