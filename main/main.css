@@ -1,13 +1,15 @@
 #credit{
         font-family: "Lucida Console";
         font-size: 9px;
-        color: #CDCDCE;
+        color: #CDCDCE !important;
         width: 50%;
 	text-align: left;
 	position: fixed;
 	left: 0;
 	bottom: 0;
 }
-a{
-	color: #CDCDCE;
+a #credit{
+	font-size: 9px !important;
+	color: #CDCDCE !important;
+	text-decoration: underline !important;
 }

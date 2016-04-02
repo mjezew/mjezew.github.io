@@ -18,8 +18,10 @@
 }
 #mobileonly{
 	font-color: transparent !important;
-	font-size: 0px;
+	font-size: 0px !important;
 }
 a{
 	color: #CDCDCE;
+	text-decoration: underline !important;
+	font-size: 13px !important;
 }
