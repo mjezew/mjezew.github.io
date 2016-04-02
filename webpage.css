@@ -12,16 +12,6 @@
 	padding: 0px;
 	max-width: 250px;
 }
-a{
-	font-family: "Lucida Console";
-        width: 10%;
-        border: none;
-        background-color: transparent;
-        color: #708694;
-	font-size: 12px;
-        height: 14px;
-	text-decoration: none;
-}
 input[type="submit"]{
 	font-family: "Lucida Console";
         width: 10%;

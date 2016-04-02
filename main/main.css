@@ -8,8 +8,6 @@
 	left: 0;
 	bottom: 0;
 }
-a #credit{
-	font-size: 9px !important;
-	color: #CDCDCE !important;
-	text-decoration: underline !important;
+a {
+	color: #CDCDCE;
 }
