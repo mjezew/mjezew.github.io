@@ -36,3 +36,6 @@ body{
         background-repeat: no-repeat;
         background-position: center;
 }
+button {
+  outline: none; // this one
+}
