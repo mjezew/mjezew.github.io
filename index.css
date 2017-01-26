@@ -18,7 +18,6 @@ input[type=submit]{
         color: #CDCDCE;
         background: transparent !important;
 	font-family: "Lucida Console";
-	outline:0;
 }
 a{
 	width:65px;
@@ -36,6 +35,6 @@ body{
         background-repeat: no-repeat;
         background-position: center;
 }
-button {
-  outline: none; // this one
+input[type=button]:focus,input[type=submit]:focus{
+    outline:0px;
 }
