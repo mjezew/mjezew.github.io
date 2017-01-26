@@ -52,3 +52,6 @@ body{
     margin-left:20px;
     width: 200px;
 }
+input[type=button]:focus,input[type=submit]:focus{
+    outline:0px;
+}
