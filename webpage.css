@@ -53,5 +53,5 @@ body{
     width: 200px;
 }
 input[type=button]:focus,input[type=submit]:focus{
-    outline:0px;
+    outline:0px !important;
 }
