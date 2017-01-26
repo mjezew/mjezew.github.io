@@ -18,6 +18,7 @@ input[type=submit]{
         color: #CDCDCE;
         background: transparent !important;
 	font-family: "Lucida Console";
+	outline:0;
 }
 a{
 	width:65px;
