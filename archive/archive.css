@@ -5,6 +5,7 @@
 	margin-left: 15%;
 	margin-bottom: 40px;
 	float: left;
+	background-color: rgba(0, 0, 0, 0.0980392) !important;
 }
 #column2{
 	float: left;
