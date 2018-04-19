@@ -1,7 +1,16 @@
 .issuuembed{
 	margin-top: 75px;
 }
-#column1{
+.column{
+	width: 50%;
+	float:left;
+}
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+/*#column1{
 	margin-left: 18em;
 	margin-bottom: 40px;
 	float: left;
@@ -10,7 +19,7 @@
 	float: left;
 	margin-left: 18em;
 	margin-bottom: 40px;
-}
+}*/
 #archivecredit{
         font-family: "Lucida Console";
         font-size: 9px;
