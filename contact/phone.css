@@ -1,0 +1,29 @@
+#ct{
+        font-family: "Courier New";
+	font-size: 11px;
+        color: #708694;
+        width: 74%;
+        margin-left: 10%;
+        text-align: right;
+        margin-top: 28%;
+}
+
+#mobileonly{
+	font-family: "Courier New";
+	color: #708694;
+	font-size: 11px;
+        width: 75%;
+        text-align: right;
+        margin-top: 15%;
+	margin-left:10%; 
+	margin-bottom: 45%;
+}
+
+#cred{
+	font-size: 0px;
+	font-color: transparent !important;
+}
+
+a{
+        color: #CDCDCE;
+}
