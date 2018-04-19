@@ -2,10 +2,8 @@
         font-family: "Lucida Console";
         font-size: 9px;
         color: #CDCDCE;
-        width: 50%;
-	text-align: left;
+        width: 100%;
 	position: fixed;
-	left: 0;
 	bottom: 0;
 }
 a {
