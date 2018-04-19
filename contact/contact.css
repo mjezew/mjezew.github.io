@@ -17,7 +17,8 @@
 	
 }
 #mobileonly{
-	color: #fff !important;
+	font-size: 0px;
+	color: transparent;
 }
 a{
 	color: #CDCDCE;
