@@ -17,8 +17,23 @@
 	
 }
 #mobileonly{
-	font-color: #fff;
+	font-color: #fff !important;
 }
 a{
 	color: #CDCDCE;
+}
+@media only screen and (max-width: 641px) {
+	#mobileonly{
+		font-family: "Lucida Console";
+		color: #CDCDCE;
+		width: 50%;
+		margin-left: 25%;
+		text-align: right;
+		margin-top: 2%;
+		font-size: 11px;
+	}
+	#cred{
+		color: #fff !important;
+	}
+	
 }
