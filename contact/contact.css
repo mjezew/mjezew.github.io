@@ -17,8 +17,7 @@
 	
 }
 #mobileonly{
-	font-color: transparent !important;
-	font-size: 0px !important;
+	font-color: #fff;
 }
 a{
 	color: #CDCDCE;
