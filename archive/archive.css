@@ -18,16 +18,6 @@
     	margin-left:auto;
 	margin-right:auto;
 }
-/*#column1{
-	margin-left: 18em;
-	margin-bottom: 40px;
-	float: left;
-}
-#column2{
-	float: left;
-	margin-left: 18em;
-	margin-bottom: 40px;
-}*/
 #archivecredit{
         font-family: "Lucida Console";
         font-size: 9px;
@@ -40,4 +30,9 @@ a{
 }
 body{
 	color: transparent;
+}
+@media screen and (max-width: 600px) {
+    .column {
+        width: 100%;
+    }
 }
