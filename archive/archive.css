@@ -34,5 +34,7 @@ body{
 @media screen and (max-width: 641px) {
     .column {
         width: 100%;
+	margin-left: auto;
+	margin-right: auto;
     }
 }
